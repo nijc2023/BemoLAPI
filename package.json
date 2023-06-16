@@ -1,0 +1,13 @@
+{
+  "name": "bemolapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "node_modules/.bin/cypress_open",
+    "cypress:run": "node_modules/.bin/cypress_run"
+  },
+  "keywords": [],
+  "author": "Natalia Celemente",
+  "license": "ISC"
+}
